@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Heap_determine_com", "Heap_determine_com.pyproj", "{37E9FCE2-803A-42B9-BFBA-D68EA1EE2CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E9FCE2-803A-42B9-BFBA-D68EA1EE2CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E9FCE2-803A-42B9-BFBA-D68EA1EE2CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BB149A-8198-4E63-8575-5F87B93A7CCF}
+	EndGlobalSection
+EndGlobal
